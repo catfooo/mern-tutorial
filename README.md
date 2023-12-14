@@ -1,3 +1,6 @@
+things to do -> remove blanks around = at env
+------------------
+
 problem here - i cant connect to the server. 
 
 this is what i have for .env
