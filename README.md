@@ -1,5 +1,5 @@
 things to do -> remove blanks around = at env
-: the same error still happens..
+: the same error still happens....
 ------------------
 
 problem here - i cant connect to the server. 
